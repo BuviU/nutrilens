@@ -1,0 +1,10 @@
+# NutriLens Web
+
+For a University Assignment
+
+- Contributors: Upeksha Sandamini form uvibirds.com
+- Tags: website, Business
+- Tested up to: 1.0.0
+- Stable tag: 1.0.0
+
+
